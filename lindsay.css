@@ -1,0 +1,8 @@
+
+body:not(.header--menu-open) .bright-inverse .header-nav-wrapper a {
+    color: #fff;
+}
+
+a {
+    color: #fff;
+}
